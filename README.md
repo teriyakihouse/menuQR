@@ -1,3 +1,4 @@
 # menuQR
 
-template for Teriyaki House
+Teriyaki House Menu
+
